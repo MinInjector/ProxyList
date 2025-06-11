@@ -4,7 +4,14 @@
     "username": "dpmods",
     "password": "dpmods",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "allowOff{line": true
+  },
+  {
+    "id": "b133578be271c777",
+    "username": "tuyen2b2t",
+    "password": "tuyen2b2t",
+    "expiresAt": "2025-12-31",
+    "allowOff{line": true
   },
   {
     "id": "android_device_id_2",
