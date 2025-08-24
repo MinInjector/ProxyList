@@ -10,7 +10,7 @@
     "id": "b133578be271c777",
     "username": "User",
     "password": "free7",
-    "expiresAt": "2025-11-30",
+    "expiresAt": "2025-09-02",
     "allowOffline": true
   }
 ]
