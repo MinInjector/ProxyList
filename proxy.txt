@@ -2,8 +2,8 @@
   {
     "id": "b133578be271c777",
     "username": "Admin",
-    "password": "freetrail7day",
-    "expiresAt": "2025-09-01",
+    "password": "free7",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
