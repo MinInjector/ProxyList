@@ -1,16 +1,16 @@
 [
   {
-    "id": "b133578be271c777",
-    "username": "Admin",
-    "password": "free7",
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
-    "id": "android",
-    "username": "user2",
-    "password": "pass2",
+    "id": "b133578be271c777",
+    "username": "User",
+    "password": "free7",
     "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
