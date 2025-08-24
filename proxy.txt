@@ -8,7 +8,7 @@
   },
   {
     "id": "b133578be271c777",
-    "username": "User",
+    "username": "Admin123",
     "password": "free7",
     "expiresAt": "2025-09-02",
     "allowOffline": true
