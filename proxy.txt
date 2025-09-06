@@ -1,8 +1,8 @@
 [
   {
-    "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
+    "id": "37917346078986d1",
+    "username": "freekey",
+    "password": "freekey",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
