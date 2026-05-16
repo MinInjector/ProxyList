@@ -3,7 +3,7 @@ import time
 
 # --- CẤU HÌNH ---
 IP = "0.0.0.0" 
-PORT = 3001   
+PORT = 8080   
 TIMEOUT = 10   # Giây
 
 # Khởi tạo Socket
